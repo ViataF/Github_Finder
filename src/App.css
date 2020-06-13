@@ -19,7 +19,7 @@ body {
   font-family: "Roboto", sans-serif;
   font-size: 1rem;
   line-height: 1.6;
-  background-color: #fff;
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRMjPuSV1mLD1CICZtgsXBOxyj1-Zc1v4jCfMK47GTVFsiDRp2H&usqp=CAU);
   color: #333;
 }
 
@@ -112,8 +112,9 @@ img {
 /* Cards */
 .card {
   padding: 1rem;
-  border: #ccc 1px dotted;
+  border: #333 1px dotted;
   margin: 0.7rem 0;
+  background-color: turquoise;
 }
 
 /* List */
